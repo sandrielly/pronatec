@@ -26,19 +26,19 @@ function showDivs(n) {
   dots[slideIndex-1].className += " w3-red";
 
   if(n==1)
-    TrocaLegenda("Camisetas, preço R$50,00");
+    TrocaLegenda("Camisetas, preço R$20,00");
   if(n==2)
-    TrocaLegenda("Short Jeans, R$45,00");
+    TrocaLegenda("Short Jeans, R$35,00");
   if(n==3)
-    TrocaLegenda("Tenis, R$43,00");
+    TrocaLegenda("Tenis, R$38,00");
   if(n==4)
-    TrocaLegenda("Macacão, R$80,00");
+    TrocaLegenda("Macacão, R$55,00");
   if(n==5)
-    TrocaLegenda("Conjuntinho, R$55,60");
+    TrocaLegenda("Conjuntinho, R$60,00");
   if(n==6)
-    TrocaLegenda("Vestido, 50,00");
+    TrocaLegenda("Vestido, R$30,00");
   if(n==7)
-    TrocaLegenda("Saltos, R$60,00");
+    TrocaLegenda("Saltos, R$25,00");
   if(n==8)
     TrocaLegenda("Saltos, R$60,00");
 
