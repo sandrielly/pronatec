@@ -26,15 +26,21 @@ function showDivs(n) {
   dots[slideIndex-1].className += " w3-red";
 
   if(n==1)
-    TrocaLegenda("Camisetas tal, preço R$ 50,00");
+    TrocaLegenda("Camisetas, preço R$50,00");
   if(n==2)
-    TrocaLegenda("Igreja Coração de Jesus.");
+    TrocaLegenda("Short Jeans, R$45,00");
   if(n==3)
-    TrocaLegenda("Catedral de Nossa Senhora dos Remédios.");
+    TrocaLegenda("Tenis, R$43,00");
   if(n==4)
-    TrocaLegenda("Centro de picos a noite.");
-
-
+    TrocaLegenda("Macacão, R$80,00");
+  if(n==5)
+    TrocaLegenda("Conjuntinho, R$55,60");
+  if(n==6)
+    TrocaLegenda("Vestido, 50,00");
+  if(n==7)
+    TrocaLegenda("Saltos, R$60,00");
+  if(n==8)
+    TrocaLegenda("Saltos, R$60,00");
 
 }
 
